@@ -16,6 +16,6 @@ Updated the way that envrionment variables are used form the walkthrough, this n
 
 Updated the intent charges handling to match that of the [Novembver 16th 2022 ](https://stripe.com/docs/changelog#november-16,-2022) update.
 
-### requirements.txt
+### [requirements.txt](https://github.com/roomacarthur/ba2024/blob/main/requirements.txt)
 
 Some packages have been updated as seen in the requirements.txt file, specifically Django, Django-Allauth, Stripe and some other minor changes
