@@ -8,7 +8,7 @@ Python version 3.12.2
 
 Below are the key differences from the Original source code, this repo only contains the files with changes to streamline the differences. 
 
-### settings.py
+### [settings.py](https://github.com/roomacarthur/ba2024/blob/main/boutique_ado/settings.py)
 
 Updated the way that envrionment variables are used form the walkthrough, this now includes the use of env.py.
 
